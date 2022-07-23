@@ -4,8 +4,8 @@ function validate () {
     var password =document.getElementById("password").value;
     if (firstname == "hassan" && lastname == "yange" && password == "kivumbi"){
         
-        //  alert("log in successfully");
-        window.location.href=("learn.html");
+         alert("log in successfully");
+        // window.location.href=("learn.html");
        
     }
     else{
