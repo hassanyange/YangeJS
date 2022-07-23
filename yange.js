@@ -4,12 +4,14 @@ function validate () {
     var password =document.getElementById("password").value;
     if (firstname == "hassan" && lastname == "yange" && password == "kivumbi"){
         
-         alert("log in successfully");
-    
-       
+        alert("login successfully");
+        
     }
     else{
         alert("invalid password or username");
     }
 
 }
+
+
+

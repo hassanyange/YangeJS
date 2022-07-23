@@ -3,8 +3,8 @@ body {
     padding: 0;
     font-family: sans-serif;
     text-align: center;
-    background: url(back.png);
-    /* background-size: cover; */
+    background-image: url(b4.avif);
+    background-size: cover;
     
 }
 
@@ -65,4 +65,9 @@ body {
 
 .button:hover{
    background-color: yellow;
+}
+
+
+.move{
+    color: white;
 }
