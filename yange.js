@@ -5,7 +5,7 @@ function validate () {
     if (firstname == "hassan" && lastname == "yange" && password == "kivumbi"){
         
          alert("log in successfully");
-        // window.location.href=("learn.html");
+    
        
     }
     else{
